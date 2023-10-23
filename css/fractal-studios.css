@@ -3200,6 +3200,7 @@ a {
   height: auto;
   box-shadow: none;
   color: rgba(0, 151, 255, .8);
+  cursor: pointer;
   background-color: #fff;
   border-width: 2px;
   border-color: #363f45;
