@@ -2998,6 +2998,7 @@ a {
   width: 100px;
   height: 47px;
   max-width: none;
+  cursor: pointer;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -3649,6 +3650,10 @@ a {
 
 .lottie-animation-10 {
   width: 150px;
+}
+
+.div-block-19 {
+  cursor: pointer;
 }
 
 @media screen and (max-width: 991px) {
@@ -4656,6 +4661,11 @@ a {
     font-size: 14px;
   }
 
+  .combine-banner1_text {
+    width: 80%;
+    text-align: center;
+  }
+
   .combine-padding-global {
     padding-left: 1.25rem;
     padding-right: 1.25rem;
@@ -5418,6 +5428,11 @@ a {
   .combine-padding-global {
     padding-left: 1rem;
     padding-right: 1rem;
+  }
+
+  .combine-section_banner1 {
+    margin-left: 20px;
+    margin-right: 20px;
   }
 
   .hero__content-landingpage {
